@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaljizawi.github.io/sitemap.xml
